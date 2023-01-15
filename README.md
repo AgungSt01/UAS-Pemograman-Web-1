@@ -8,5 +8,9 @@
 <p>Dosen : Agung Nugroho,S.Kom.,M.Kom. </p>
 
 <p>Didalam repository ini terdapat sebuah link dokumentasi yotube, dokumen pdf project UAS Pemrograman WEB 1 </p>
-<p>Note : Gunakan username yang tersedia pada database apabila anda tidak bisa login </p>
+
+### Note !!! : 
+Gunakan user yang tersedia pada database apabila anda tidak bisa login
+
 <p>Link Youtube : https://www.youtube.com/watch?v=sVvGVhLTJjg </P>
+<p>Link WebPage : https://checklistagungst.000webhostapp.com/index.php </p> 
