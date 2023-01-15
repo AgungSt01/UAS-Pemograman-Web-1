@@ -7,7 +7,7 @@
 <p>Mata Kuliah : Pemrograman Web 1 </p>
 <p>Dosen : Agung Nugroho,S.Kom.,M.Kom. </p>
 
-<p>Didalam repository ini terdapat sebuah link dokumentasi yotube, dokumen pdf project UAS Pemrograman WEB 1 </p>
+<p>Didalam repository ini terdapat sebuah link dokumentasi yotube, link web page, dan dokumen pdf project UAS Pemrograman WEB 1 </p>
 
 ### Note !!! : 
 Gunakan user yang tersedia pada database apabila anda tidak bisa login
